@@ -8,7 +8,13 @@ Erlebe die nahtlose Integration von Online- und Offline-Browsing, komplett mit b
 
 Erkunde die Macht von Shadowra, mit anpassbaren Layouts, Tabs und einer immersiven Benutzeroberfläche, die auf all deine Browserbedürfnisse zugeschnitten ist.
 
+---
+
+//////////////////////////////////////////////////////////////////////////////////////
+
 [**Jetzt herunterladen v 0.0.1a**](https://www.sha-it-velk.de/Shadowra%20Browser.exe)
+
+//////////////////////////////////////////////////////////////////////////////////////
 
 ---
 
@@ -20,4 +26,4 @@ Bist du leidenschaftlicher Python-Entwickler und möchtest an der Weiterentwickl
 
 ---
 
-&copy; 2024 Shadowra Browser. Alle Rechte vorbehalten.
+&copy; [__2024 Shadowra Browser. Alle Rechte vorbehalten.__]
